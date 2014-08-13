@@ -1,0 +1,13 @@
+RecoWgt=0.7662
+SizeWgt=0.0898
+OODWgt=0.0400
+NumWgt=0.0513
+CharBigramsWgt=0.0464
+MaxSegPerChar=8
+BeamWidth=10
+ConvGridSize=48
+WordUnigramsWgt=0.005
+MaxWordAspectRatio=20.0000
+MinSpaceHeightRatio=0.5000
+MaxSpaceHeightRatio=0.6000
+HistWindWid=2
