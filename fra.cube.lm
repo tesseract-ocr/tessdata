@@ -1,7 +1,0 @@
-LeadPunc="'([{¡«¿’“
-TrailPunc=!"'),-.:;?]_}©®»‘”
-NumLeadPunc=#(@[{.-<=>€
-NumTrailPunc=!%),.:;]_}°<=>
-Operators=*+-/.:,()[]{}<>=
-Digits=0123456789
-Alphas=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzÀÂÄÆÇÈÉÊËÎÏÔÙÛÜàâäæçèéêëîïñòóôùûüŒœŸﬁﬂ
