@@ -11,7 +11,7 @@ These have models for legacy tesseract engine (--oem 0) as well as the new LSTM 
 The LSTM models (--oem 1) in these files 
 have been updated to the integerized versions of 
 [tessdata_best](https://github.com/tesseract-ocr/tessdata_best) on GitHub.
-So, they should be faster but probably a little less accurate than tesdata_best.
+So, they should be faster but probably a little less accurate than tessdata_best.
 
 [tessdata_fast](https://github.com/tesseract-ocr/tessdata_fast) on GitHub
 provides an alternate set of integerized LSTM models which have been built with a smaller network.
