@@ -28,3 +28,6 @@ Get language data files for Tesseract 3.04 or 3.05 from the
 
 More information and a complete list of all languages is available in the
 [Tesseract wiki](https://github.com/tesseract-ocr/tesseract/wiki/Data-Files).
+
+All data in the repository are licensed under the
+Apache-2.0 License, see file [LICENSE](LICENSE).
