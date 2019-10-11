@@ -1,3 +1,3 @@
 [submodule "tessconfigs"]
 	path = tessconfigs
-	url = git@github.com:tesseract-ocr/tessconfigs.git
+	url = https://github.com/tesseract-ocr/tessconfigs.git
