@@ -1,7 +1,7 @@
 tessdata
 ========
 
-These language data files only work with Tesseract 4.0.0.
+These language data files only work with Tesseract 4.0.0 or 5.0.0-alpha.
 They are based on the sources in
 [tesseract-ocr/langdata](https://github.com/tesseract-ocr/langdata) on GitHub.
 (still to be updated for 4.0.0 - 20180322)
